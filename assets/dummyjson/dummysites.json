@@ -1,0 +1,98 @@
+{
+  "status": "ok",
+  "data": [
+    {
+      "current_version": "1.5",
+      "activity": "dashboard",
+      "result": [
+        {
+          "site_id": "CMS001",
+          "site_name": "TAMAN RAWANG JAYA",
+          "siteName": "TAMAN RAWANG JAYA",
+          "site_status": 0,
+          "unit_office": "TEST UO",
+          "site_color": "#F4B400",
+          "io_status": null
+        },
+        {
+          "site_id": "PMS001",
+          "site_name": "Testing site 1",
+          "siteName": "Testing site 1",
+          "site_status": 4,
+          "unit_office": "TEST UO",
+          "site_color": "#DB4437",
+          "io_status": {
+            "1": "TNB TRIP",
+            "2": "WATER LEVEL LOW",
+            "3": "RSP 1 TRIP",
+            "4": "RSP 2 NORMAL",
+            "5": "RSP 3 NORMAL",
+            "6": "NONE ",
+            "7": " ",
+            "8": " ",
+            "9": " ",
+            "10": " ",
+            "11": " ",
+            "12": " ",
+            "13": " ",
+            "14": " ",
+            "15": " ",
+            "16": "POWER FACTOR LOW"
+          }
+        },
+        {
+          "site_id": "PMS002",
+          "site_name": "Testing site 2",
+          "siteName": "Testing site 2",
+          "site_status": 3,
+          "unit_office": "TEST UO",
+          "site_color": "#DB4437",
+          "io_status": {
+            "1": "TNB TRIP",
+            "2": "WATER LEVEL LOW",
+            "3": "RSP 1 NORMAL",
+            "4": "RSP 2 NORMAL",
+            "5": "RSP 3 NORMAL",
+            "6": "BLOWER 1 NORMAL",
+            "7": " ",
+            "8": " ",
+            "9": " ",
+            "10": " ",
+            "11": " ",
+            "12": " ",
+            "13": " ",
+            "14": " ",
+            "15": " ",
+            "16": " "
+          }
+        },
+        {
+          "site_id": "PMS003",
+          "site_name": "Testing site 3",
+          "siteName": "Testing site 3",
+          "site_status": 0,
+          "unit_office": "TEST UO",
+          "site_color": "#F4B400",
+          "io_status": {
+            "1": "TNB RECOVERY",
+            "2": "WATER LEVEL LOW",
+            "3": "RSP 1 NORMAL",
+            "4": "RSP 2 NORMAL",
+            "5": " ",
+            "6": " ",
+            "7": " ",
+            "8": " ",
+            "9": " ",
+            "10": " ",
+            "11": " ",
+            "12": " ",
+            "13": " ",
+            "14": " ",
+            "15": " ",
+            "16": " "
+          }
+        }
+      ]
+    }
+  ]
+}
